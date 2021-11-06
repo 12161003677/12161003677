@@ -16,7 +16,7 @@
       <a href="https://github.com/12161003677?tab=repositories&language=php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>     
       <a href="https://github.com/12161003677?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>     
       <a href="https://github.com/12161003677?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-    <a href="https://github.com/12161003677?tab=repositories&language=java" target="_blank"><img alt="Java" src="	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+    <a href="https://github.com/12161003677?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
      <br>     
     <img src="https://github-readme-stats.vercel.app/api?username=12161003677&theme=midnight-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats">
     <br>     
